@@ -34,7 +34,7 @@ I build AI-driven applications and end-to-end automation frameworks. I am highly
 
 - **Smart Quizzer AI**  
   _Adaptive learning platform using AI and NLP to generate personalized quizzes and semantically evaluate answers._  
-  [GitHub](https://github.com/BatchuMamatha/Smart-Quizzer-AI) | [Live Demo](https://github.com/BatchuMamatha/Smart-Quizzer-AI)
+  [GitHub](https://github.com/BatchuMamatha/Smart-Quizzer-AI_Infosys) | [Live Demo](https://batchumamatha.github.io/Smart-Quizzer-AI_Infosys/)
 
 - **Personalized Yoga Poses Recommendation System**  
   _AI-driven wellness recommendation system utilizing RAG (Retrieval-Augmented Generation), Vertex AI embeddings, and Firestore vector search._  
